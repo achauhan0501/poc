@@ -36,11 +36,12 @@ class PresenterImpl : Presenter<MvpView>, LoaderListener {
         caller.loadItems(this)
     }
 
-
+    // used to get title on offline mode.
     fun getTitle() : String{
         return DataConstants.title
     }
 
+    // used to get list in offline mode.
     fun getDataOffline(): ArrayList<RowData> {
         return DataConstants.row_list
     }
