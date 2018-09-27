@@ -1,0 +1,166 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml:2:1-36:12
+MERGED from [com.android.databinding:adapters:3.1.4] /home/ashish/.gradle/caches/transforms-1/files-1.1/adapters-3.1.4.aar/dc4aab435aaeec24214484766f2ca7ba/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.1.4] /home/ashish/.gradle/caches/transforms-1/files-1.1/library-3.1.4.aar/f873c88958c4d67ff9ddfe667a6ce866/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design:27.1.1] /home/ashish/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/ad32629b905f29d6fd6560422403c2e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/ashish/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/27c8b76425e0af753a564d7352be150d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/ashish/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/51fa26a8326b8008129915e704b47391/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/ashish/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/fd6546b6c547c912880f2bcc5e473bcd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/ashish/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/753e394da7a33c62cb28739f9746c2fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/ashish/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/3dab90b978f5c77c7a43834c2fb273dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/ashish/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/30a389a6439d644fb2ffb528fc11bf92/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/ashish/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/9899f2c442fdeacfa7d3c337250a5d11/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/ashish/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/6db477b64735610d382079926626a02b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/ashish/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/24743ae1e0ea8013dd6c8001fd552830/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/ashish/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ab2ce929a01a521f6931f4f1b61c1e1c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/ashish/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/b7f4b709239202edfa2727aff1ab21e9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/ashish/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1fd2d9b129e06973ce45fa92b3229cba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/ashish/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ea84c7d472a7dca2f77d641ed2733e64/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/ashish/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c783126be8c47794a2d5e670faddda52/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] /home/ashish/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/635342bea3b61e2199d43ac82d913a43/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/ashish/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e593f2fe1e894b080c1c330245e80461/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/ashish/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/075d71694709c3f8124653dbacc84832/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/ashish/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/1d0b389e13e3fe927adf1b6250c3c42a/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml
+		ADDED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml
+		ADDED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml:8:5-34:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/ashish/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/51fa26a8326b8008129915e704b47391/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/ashish/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/51fa26a8326b8008129915e704b47391/AndroidManifest.xml:7:5-12:19
+	android:supportsRtl
+		ADDED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml:14:9-54
+	android:largeHeap
+		ADDED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml:13:9-33
+	android:icon
+		ADDED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml:16:9-40
+	android:name
+		ADDED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml:9:9-40
+receiver#com.example.ashish.task.receiver.ConnectionReceiver
+ADDED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml:17:9-24:20
+	android:enabled
+		ADDED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml:19:13-35
+	android:name
+		ADDED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml:18:13-56
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE+action:name:android.net.wifi.WIFI_STATE_CHANGED
+ADDED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml:20:13-23:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml:21:17-79
+	android:name
+		ADDED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml:21:25-76
+action#android.net.wifi.WIFI_STATE_CHANGED
+ADDED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml:22:17-78
+	android:name
+		ADDED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml:22:25-75
+activity#com.example.ashish.task.view.MainActivity
+ADDED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml:26:9-32:20
+	android:name
+		ADDED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml:26:19-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml:30:27-74
+uses-sdk
+INJECTED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml
+INJECTED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:3.1.4] /home/ashish/.gradle/caches/transforms-1/files-1.1/adapters-3.1.4.aar/dc4aab435aaeec24214484766f2ca7ba/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.1.4] /home/ashish/.gradle/caches/transforms-1/files-1.1/adapters-3.1.4.aar/dc4aab435aaeec24214484766f2ca7ba/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.4] /home/ashish/.gradle/caches/transforms-1/files-1.1/library-3.1.4.aar/f873c88958c4d67ff9ddfe667a6ce866/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.4] /home/ashish/.gradle/caches/transforms-1/files-1.1/library-3.1.4.aar/f873c88958c4d67ff9ddfe667a6ce866/AndroidManifest.xml:22:5-44
+MERGED from [com.android.support:design:27.1.1] /home/ashish/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/ad32629b905f29d6fd6560422403c2e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/ashish/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/ad32629b905f29d6fd6560422403c2e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/ashish/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/27c8b76425e0af753a564d7352be150d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/ashish/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/27c8b76425e0af753a564d7352be150d/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/ashish/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/51fa26a8326b8008129915e704b47391/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/ashish/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/51fa26a8326b8008129915e704b47391/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/ashish/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/fd6546b6c547c912880f2bcc5e473bcd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/ashish/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/fd6546b6c547c912880f2bcc5e473bcd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/ashish/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/753e394da7a33c62cb28739f9746c2fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/ashish/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/753e394da7a33c62cb28739f9746c2fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/ashish/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/3dab90b978f5c77c7a43834c2fb273dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/ashish/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/3dab90b978f5c77c7a43834c2fb273dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/ashish/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/30a389a6439d644fb2ffb528fc11bf92/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/ashish/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/30a389a6439d644fb2ffb528fc11bf92/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/ashish/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/9899f2c442fdeacfa7d3c337250a5d11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/ashish/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/9899f2c442fdeacfa7d3c337250a5d11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/ashish/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/6db477b64735610d382079926626a02b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/ashish/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/6db477b64735610d382079926626a02b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/ashish/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/24743ae1e0ea8013dd6c8001fd552830/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/ashish/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/24743ae1e0ea8013dd6c8001fd552830/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/ashish/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ab2ce929a01a521f6931f4f1b61c1e1c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/ashish/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ab2ce929a01a521f6931f4f1b61c1e1c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/ashish/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/b7f4b709239202edfa2727aff1ab21e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/ashish/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/b7f4b709239202edfa2727aff1ab21e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/ashish/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1fd2d9b129e06973ce45fa92b3229cba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/ashish/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1fd2d9b129e06973ce45fa92b3229cba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/ashish/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ea84c7d472a7dca2f77d641ed2733e64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/ashish/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ea84c7d472a7dca2f77d641ed2733e64/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/ashish/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c783126be8c47794a2d5e670faddda52/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/ashish/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c783126be8c47794a2d5e670faddda52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /home/ashish/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/635342bea3b61e2199d43ac82d913a43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /home/ashish/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/635342bea3b61e2199d43ac82d913a43/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/ashish/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e593f2fe1e894b080c1c330245e80461/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/ashish/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e593f2fe1e894b080c1c330245e80461/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/ashish/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/075d71694709c3f8124653dbacc84832/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/ashish/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/075d71694709c3f8124653dbacc84832/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/ashish/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/1d0b389e13e3fe927adf1b6250c3c42a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/ashish/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/1d0b389e13e3fe927adf1b6250c3c42a/AndroidManifest.xml:20:5-44
+INJECTED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml
+INJECTED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml
+		ADDED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml
+		ADDED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ashish/task-wipro/new_repo/app/src/main/AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /home/ashish/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/51fa26a8326b8008129915e704b47391/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/ashish/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/51fa26a8326b8008129915e704b47391/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/ashish/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/51fa26a8326b8008129915e704b47391/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/ashish/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/51fa26a8326b8008129915e704b47391/AndroidManifest.xml:9:13-64
