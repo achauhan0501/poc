@@ -78,7 +78,6 @@ class MainActivity : AppCompatActivity(), MvpView,
 
         presenterImpl = PresenterImpl()
         presenterImpl?.attachedView(this)
-
         list = ArrayList()
         title = ""
         layoutManager = LinearLayoutManager(this)
@@ -96,6 +95,8 @@ class MainActivity : AppCompatActivity(), MvpView,
             checkConnection()
         }
 
+
+        // swipe refresh listener.
         swipe_layout.setOnRefreshListener(SwipeRefreshLayout.OnRefreshListener {
             if (ConnectionReceiver.isConnected()) {
                 refresh()
@@ -107,6 +108,9 @@ class MainActivity : AppCompatActivity(), MvpView,
         })
     }
 
+
+
+    // receiver caller
     override fun onNetworkConnectionChanged(isConnected: Boolean) {
         if (!isConnected)
             showNoInternetSnackBar()
@@ -119,12 +123,13 @@ class MainActivity : AppCompatActivity(), MvpView,
     }
 
 
-
+    // used to register receiver
     fun registerReceiver() {
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.N)
             registerReceiver(mConnectionReceiver, IntentFilter(ConnectivityManager.CONNECTIVITY_ACTION))
     }
 
+    // used to unregister receiver
     fun unRegisterReceiver() = try {
         unregisterReceiver(mConnectionReceiver)
     } catch (e: IllegalArgumentException) {
